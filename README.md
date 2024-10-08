@@ -1,4 +1,4 @@
 # demo
 my first project
 <br>
-Creator - Shariq Ali
+Creator - Shariq Bhutto
